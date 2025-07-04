@@ -11,7 +11,7 @@ Este proyecto está basado principalmente en **listas doblemente enlazadas**, un
 ## ⚙️ Pasos para ejecutar el proyecto
 Al descargar el archivo zip crear la carpeta "database" dentro del proyecto para almacenar la Db. 
 
-#Sigue estos pasos para ejecutar el proyecto en tu máquina local:
+Sigue estos pasos para ejecutar el proyecto en tu máquina local:
 
 1. **Abre PowerShell como administrador**  
    Haz clic derecho en PowerShell y selecciona **"Ejecutar como administrador"**.
