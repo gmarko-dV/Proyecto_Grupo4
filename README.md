@@ -1,4 +1,4 @@
-# 🎬 Proyecto de Gestión de Películas
+# 🎬 Salchicine - proyecto Dummar - GRUPO4 
 
 Este proyecto está basado principalmente en **listas doblemente enlazadas**, una estructura de datos que permite almacenar y recorrer elementos en ambas direcciones, y es utilizada para gestionar una selección de películas de manera eficiente en una interfaz web. Además, se emplea **recursividad** para facilitar el manejo de elementos en la lista.
 
